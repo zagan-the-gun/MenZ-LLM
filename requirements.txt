@@ -1,0 +1,5 @@
+pydantic==2.7.1
+orjson==3.10.7
+websockets==12.0
+llama-cpp-python==0.2.90
+huggingface_hub==0.24.6
